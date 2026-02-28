@@ -45,11 +45,3 @@ Software Engineer specializing in backend systems and DevOps practices.
 </p>
 
 ---
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedSayed0573/MohamedSayed0573/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedSayed0573/MohamedSayed0573/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohamedSayed0573/MohamedSayed0573/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
