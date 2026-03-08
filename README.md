@@ -6,6 +6,7 @@ Software Engineer specializing in backend systems and DevOps practices.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-sayed3/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
+<a href="https://mohamedsayed0573.github.io/resume.pdf" target="blank"><img align="center" src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" height="30" /></a>
 <a href="mailto:mohamedsaid0573@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
 </p>
 
@@ -30,20 +31,3 @@ Software Engineer specializing in backend systems and DevOps practices.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
-<!--
----
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedSayed0573&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedSayed0573&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" height="150" alt="Top Languages" />
-</p>
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=MohamedSayed0573&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
----
---!>
