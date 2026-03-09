@@ -31,3 +31,11 @@ Software Engineer specializing in backend systems and DevOps practices.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSayed0573&show_icons=true&theme=default&title_color=0052cc&icon_color=0052cc&text_color=1f2937&border_color=d0d7de" alt="Mohammed's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSayed0573&layout=compact&theme=default&title_color=0052cc&text_color=1f2937&border_color=d0d7de" alt="Top languages" height="165" />
+</p>
+
