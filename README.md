@@ -1,8 +1,8 @@
 # Mohammed Sayed
 
-<img src="https://img.shields.io/badge/💻_Software_Engineer-0052cc?style=for-the-badge&logoColor=white" alt="Software Engineer" /> <img src="https://img.shields.io/badge/⚙️_Backend_&_DevOps-0052cc?style=for-the-badge&logoColor=white" alt="Backend & DevOps" />
+<img src="https://img.shields.io/badge/💻_Software_Engineer-0052cc?style=for-the-badge&logoColor=white" alt="Software Engineer" /> <img src="https://img.shields.io/badge/🌐_Full_Stack_Developer-0052cc?style=for-the-badge&logoColor=white" alt="Full Stack Developer" />
 
-Software Engineer specializing in backend systems and DevOps practices.
+Software Engineer specializing in Full Stack Web Developerment
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-sayed3/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
@@ -14,12 +14,17 @@ Software Engineer specializing in backend systems and DevOps practices.
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks:**<br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**Backend:**<br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Frontend:**<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Databases:**<br>
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
